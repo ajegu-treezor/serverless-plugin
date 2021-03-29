@@ -1,0 +1,19 @@
+{
+  "name": "serverless-plugin",
+  "version": "1.0.0",
+  "description": "Plugin for Serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajegu-treezor/serverless-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajegu-treezor/serverless-plugin/issues"
+  },
+  "homepage": "https://github.com/ajegu-treezor/serverless-plugin#readme"
+}
